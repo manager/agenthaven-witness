@@ -1,0 +1,34 @@
+{
+  "v": "ah-witness-1",
+  "keylog": {
+    "size": 1,
+    "root": "vCOxGiEcoCHgM3mzRVWNjAj-eDCCkX656t3hT3zEUm8"
+  },
+  "head": "1:vCOxGiEcoCHgM3mzRVWNjAj-eDCCkX656t3hT3zEUm8",
+  "page": {
+    "/": "dd523fd671ff8bb55e81a00706275f0047facbc7abcc41e4c0e38b8ab0828f38",
+    "/app/": "6593336b657a4e5a5a97d3681d327836ea77582532cbed60a4f90a3b57f1cfa3",
+    "/index.html": "dd523fd671ff8bb55e81a00706275f0047facbc7abcc41e4c0e38b8ab0828f38",
+    "/app/index.html": "6593336b657a4e5a5a97d3681d327836ea77582532cbed60a4f90a3b57f1cfa3",
+    "/design.css": "914f25d1c8a926c367a88c8c23419bdcc3cc5161374cad26e12eec677a4c46c0",
+    "/js/about.js": "bc3a6f29880878ee48c8d5708bf852915a3ce5ae77f1c3a4c75d9c3fcbddbe8a",
+    "/js/activity.js": "a2be3a8146b721d1fe343da466d9c414869ba343056cd1c30db7b140cbdc165f",
+    "/js/app.js": "95dcc4627c5924c856912ba670d5f80fba6738786d716ea44bf2d868597656a8",
+    "/js/cred.js": "382f9115c23fa50a92880b35ef77c6ca16bfa0e4e4a5d2458daaab9773fbac12",
+    "/js/dm-crypto.js": "94b6050e4e2b47e3bbe47fe337700f3a9eb2b4de962a6ef4a172863feb912f45",
+    "/js/dm-engine.js": "37ba9a6819291b9ff3a482789f75d29f6036b9cea46f0835ef7e0badf47baf6b",
+    "/js/dm-view.js": "a08295e07476ae93297e746200c4554a6a1d9978debb676d6b831a089d1446a5",
+    "/js/key-log.js": "6482a6dd22c13483d8024063cce564fd4d84d68701bb8c93c60c60b752af2e5f",
+    "/js/main.js": "72f33042e065bb21f8e2c5e55ebd25e76370cf4c987ade4f167c60a043c49b5a",
+    "/js/modal.js": "329bbfcbb018f2285b7e29528b4e7d1e75eb4f3d345d7a323026302d51476a2f",
+    "/js/register.js": "679f0ff8a36f78451bc72362dd155a109fce400d303d2297135e89cb963652d7",
+    "/js/ring-geometry.js": "bf0da4bbc778016685650351f897799f86dc8889b017503146a56137d0b1bf5d",
+    "/js/ring.js": "103ae32684006398c02cbbb1ed0fe9e084f8752277168bdd669585bcc67d8677",
+    "/js/rules.js": "b7b7273e785a8fb32e6472da0cf9532f014dd7ad72b2b22212e8724a03069fc4",
+    "/js/tickets.js": "07ec86014e1a7bd91340b3c326127106cf8c2fe314da5078be102985f81a5e54",
+    "/vendor/three.core.js": "9edde002b066a9a05676a6127f67735b62baf399bdea529f2f7e31657da769e6",
+    "/vendor/three.module.js": "9052042d676cb0fdc1ddfefe193053f34b7ac0513a616fdac4535d49987812ea"
+  },
+  "approvedAt": "2026-09-25T20:21:36.060Z",
+  "at": "2026-09-25T20:33:32.129Z"
+}
