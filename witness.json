@@ -2,16 +2,35 @@
   "v": "ah-witness-1",
   "keylog": {
     "size": 2,
-    "root": "WWxN_YwX6jxjsjcPokSCi2aUKtLfO7D8bNehGwZtQ4k"
+    "root": "WWxN_YwX6jxjsjcPokSCi2aUKtLfO7D8bNehGwZtQ4k",
+    "entries": [
+      {
+        "login": "wolf",
+        "enc": "Mtyrw-4uh1pxc1UH8kga6oAQZ-WVE2V2nCs1UTmjNlQ",
+        "sig": "XgrqC9bjvmMqwkb3Bcg0wdKt51NcuhTwGQDE35z890A",
+        "proof": "sqiqz7JcdczlyD_nFl-EeeKo9RyhjPhoNADcmDoejqyn22p3E2iNbCYnZYUj-BGYub39OW4FbWNMfbubwiXzCA",
+        "prev": null,
+        "at": "2026-09-24T09:58:21.693Z"
+      },
+      {
+        "login": "wolf",
+        "enc": "_JJtgdOOeKjoB17MrI815MOrWzUaLNvvYKgSolUnGzY",
+        "sig": "ZzGfJnNTntXApwzs051eNjePLkJb3CYVH9gg2SPFdUg",
+        "proof": "YQONKQMjlUJq3qssl3D_mB2EJhUXpTyqdP_tc0Mk1I-524iqLvBsikS-RWvxfXIHTcA_Ue4ZZ_UfbRm81sFcBA",
+        "prev": null,
+        "at": "2026-09-26T08:45:30.225Z",
+        "reset": true
+      }
+    ]
   },
   "head": "2:WWxN_YwX6jxjsjcPokSCi2aUKtLfO7D8bNehGwZtQ4k",
   "page": {
-    "/": "595b551df11d6b143889606d701f1ef1eeff913cf7820541a68175426d7f59ae",
+    "/": "f615372ffbddbf7c4246ba11ead2e5140cedae4bd90eb6afda253ce2d85fef25",
     "/app/": "ad8b35d398d76fcf2a5b3b462c56c7a6b29bf4d1a9550ece99db5dd82f2376c3",
-    "/index.html": "595b551df11d6b143889606d701f1ef1eeff913cf7820541a68175426d7f59ae",
+    "/index.html": "f615372ffbddbf7c4246ba11ead2e5140cedae4bd90eb6afda253ce2d85fef25",
     "/app/index.html": "ad8b35d398d76fcf2a5b3b462c56c7a6b29bf4d1a9550ece99db5dd82f2376c3",
-    "/project-details/": "93064534c25e5d295815951d4dd255fbe7bf7c20aac24c465c051e2ec4eecac7",
-    "/project-details/index.html": "93064534c25e5d295815951d4dd255fbe7bf7c20aac24c465c051e2ec4eecac7",
+    "/project-details/": "8ca238f90ac7d85797f06d7ff1abba8babdbe83688ebaad03b9eab4715188012",
+    "/project-details/index.html": "8ca238f90ac7d85797f06d7ff1abba8babdbe83688ebaad03b9eab4715188012",
     "/project-details/details.css": "0d37bb17c2a70b6dbb8fe22f4efe405b8107cc420d63d2606e19c8a5257b3af0",
     "/design.css": "31bcb13a5840b2203ddff01b6c560dcf37ff473fb240d7c86d9519fdbcbb7dcc",
     "/js/about.js": "bc3a6f29880878ee48c8d5708bf852915a3ce5ae77f1c3a4c75d9c3fcbddbe8a",
@@ -19,10 +38,10 @@
     "/js/app.js": "95dcc4627c5924c856912ba670d5f80fba6738786d716ea44bf2d868597656a8",
     "/js/cred.js": "382f9115c23fa50a92880b35ef77c6ca16bfa0e4e4a5d2458daaab9773fbac12",
     "/js/details.js": "3c4d6063a826ebc3b0ac6c62b1e32a676af3eae6cf71b0b5d1bcfc153ac887d7",
-    "/js/dm-crypto.js": "94b6050e4e2b47e3bbe47fe337700f3a9eb2b4de962a6ef4a172863feb912f45",
-    "/js/dm-engine.js": "30403f61cdb457dec87c2ca662b05d012f109d4055057de3478e3bd6d2609d77",
-    "/js/dm-view.js": "a08295e07476ae93297e746200c4554a6a1d9978debb676d6b831a089d1446a5",
-    "/js/key-log.js": "6482a6dd22c13483d8024063cce564fd4d84d68701bb8c93c60c60b752af2e5f",
+    "/js/dm-crypto.js": "7f761e3a265a43ed25ae836646c746c15f5b8c7686b7816cdbddc346adf52e91",
+    "/js/dm-engine.js": "0e0c1ab977f69fb009583ce829449e188c5beedd14e92f37942a06ec2b14474c",
+    "/js/dm-view.js": "081a7531405def8a4720c73201817998a98bbe07959f17aa116d057e18cd0b44",
+    "/js/key-log.js": "af9a26dec8e7156de91456ae2884af4a4a725ed5dc20f8414cb66d100d8b3b8e",
     "/js/main.js": "72f33042e065bb21f8e2c5e55ebd25e76370cf4c987ade4f167c60a043c49b5a",
     "/js/modal.js": "329bbfcbb018f2285b7e29528b4e7d1e75eb4f3d345d7a323026302d51476a2f",
     "/js/register.js": "679f0ff8a36f78451bc72362dd155a109fce400d303d2297135e89cb963652d7",
@@ -33,6 +52,6 @@
     "/vendor/three.core.js": "9edde002b066a9a05676a6127f67735b62baf399bdea529f2f7e31657da769e6",
     "/vendor/three.module.js": "9052042d676cb0fdc1ddfefe193053f34b7ac0513a616fdac4535d49987812ea"
   },
-  "approvedAt": "2026-09-26T08:09:54.364Z",
-  "at": "2026-09-26T11:17:17.276Z"
+  "approvedAt": "2026-09-26T11:37:02.905Z",
+  "at": "2026-09-26T12:17:13.461Z"
 }
