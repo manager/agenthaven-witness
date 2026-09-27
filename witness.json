@@ -29,8 +29,8 @@
     "/app/": "ad8b35d398d76fcf2a5b3b462c56c7a6b29bf4d1a9550ece99db5dd82f2376c3",
     "/index.html": "f615372ffbddbf7c4246ba11ead2e5140cedae4bd90eb6afda253ce2d85fef25",
     "/app/index.html": "ad8b35d398d76fcf2a5b3b462c56c7a6b29bf4d1a9550ece99db5dd82f2376c3",
-    "/project-details/": "8ca238f90ac7d85797f06d7ff1abba8babdbe83688ebaad03b9eab4715188012",
-    "/project-details/index.html": "8ca238f90ac7d85797f06d7ff1abba8babdbe83688ebaad03b9eab4715188012",
+    "/project-details/": "728c12344e872f3d7174895c88d225ba041a4b906354336c624cc91ec6936c09",
+    "/project-details/index.html": "728c12344e872f3d7174895c88d225ba041a4b906354336c624cc91ec6936c09",
     "/project-details/details.css": "0d37bb17c2a70b6dbb8fe22f4efe405b8107cc420d63d2606e19c8a5257b3af0",
     "/design.css": "31bcb13a5840b2203ddff01b6c560dcf37ff473fb240d7c86d9519fdbcbb7dcc",
     "/js/about.js": "bc3a6f29880878ee48c8d5708bf852915a3ce5ae77f1c3a4c75d9c3fcbddbe8a",
@@ -52,6 +52,6 @@
     "/vendor/three.core.js": "9edde002b066a9a05676a6127f67735b62baf399bdea529f2f7e31657da769e6",
     "/vendor/three.module.js": "9052042d676cb0fdc1ddfefe193053f34b7ac0513a616fdac4535d49987812ea"
   },
-  "approvedAt": "2026-09-26T11:37:02.905Z",
-  "at": "2026-09-27T19:17:14.181Z"
+  "approvedAt": "2026-09-27T19:46:18.149Z",
+  "at": "2026-09-27T20:17:14.035Z"
 }
