@@ -30,15 +30,15 @@
     "/app/": "ad8b35d398d76fcf2a5b3b462c56c7a6b29bf4d1a9550ece99db5dd82f2376c3",
     "/index.html": "f615372ffbddbf7c4246ba11ead2e5140cedae4bd90eb6afda253ce2d85fef25",
     "/app/index.html": "ad8b35d398d76fcf2a5b3b462c56c7a6b29bf4d1a9550ece99db5dd82f2376c3",
-    "/project-details/": "728c12344e872f3d7174895c88d225ba041a4b906354336c624cc91ec6936c09",
-    "/project-details/index.html": "728c12344e872f3d7174895c88d225ba041a4b906354336c624cc91ec6936c09",
-    "/project-details/details.css": "0d37bb17c2a70b6dbb8fe22f4efe405b8107cc420d63d2606e19c8a5257b3af0",
+    "/project-details/": "424de094c92a240ad593fd8ab898b08a61bf7f0c1594ebb080b371e3b4d46365",
+    "/project-details/index.html": "424de094c92a240ad593fd8ab898b08a61bf7f0c1594ebb080b371e3b4d46365",
+    "/project-details/details.css": "410246d5eeb9b23feaab188fbc419f80eb29ccf66524838de2e7d8ae008a1cce",
     "/design.css": "31bcb13a5840b2203ddff01b6c560dcf37ff473fb240d7c86d9519fdbcbb7dcc",
     "/js/about.js": "bc3a6f29880878ee48c8d5708bf852915a3ce5ae77f1c3a4c75d9c3fcbddbe8a",
     "/js/activity.js": "a2be3a8146b721d1fe343da466d9c414869ba343056cd1c30db7b140cbdc165f",
     "/js/app.js": "95dcc4627c5924c856912ba670d5f80fba6738786d716ea44bf2d868597656a8",
     "/js/cred.js": "30070f8d8307c20f6bfe8ac18db7455d6eb3ac61060cbf6f290a1f9e6de45163",
-    "/js/details.js": "3c4d6063a826ebc3b0ac6c62b1e32a676af3eae6cf71b0b5d1bcfc153ac887d7",
+    "/js/details.js": "c71cca85bbe705fb6fc88240f8c64b181ed70d920f96a185b32f27810004855a",
     "/js/dm-crypto.js": "7f761e3a265a43ed25ae836646c746c15f5b8c7686b7816cdbddc346adf52e91",
     "/js/dm-engine.js": "3eada8b9648616540bde450850b57677c327cf01af79bfc01d10de306faa602e",
     "/js/dm-view.js": "081a7531405def8a4720c73201817998a98bbe07959f17aa116d057e18cd0b44",
@@ -53,6 +53,6 @@
     "/vendor/three.core.js": "9edde002b066a9a05676a6127f67735b62baf399bdea529f2f7e31657da769e6",
     "/vendor/three.module.js": "9052042d676cb0fdc1ddfefe193053f34b7ac0513a616fdac4535d49987812ea"
   },
-  "approvedAt": "2026-09-28T10:17:38.634Z",
-  "at": "2026-09-28T11:17:13.731Z"
+  "approvedAt": "2026-09-28T11:38:47.960Z",
+  "at": "2026-09-28T12:17:12.498Z"
 }
