@@ -1,9 +1,0 @@
-{
-  "v": "ah-witness-1",
-  "alarm": "page_changed",
-  "changed": [
-    "/js/cred.js",
-    "/js/dm-engine.js"
-  ],
-  "at": "2026-09-28T10:17:12.758Z"
-}

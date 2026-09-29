@@ -26,14 +26,14 @@
   "head": "2:WWxN_YwX6jxjsjcPokSCi2aUKtLfO7D8bNehGwZtQ4k",
   "vaults": {},
   "page": {
-    "/": "5cffe827d0e4448f56d2cec7fbf8108724762a97c901db8a00b6e73d44e071bc",
-    "/app/": "2c3ae40cd0a57e535083dd4bab565379b4cb23b98386c143f751ae3362003fca",
-    "/index.html": "5cffe827d0e4448f56d2cec7fbf8108724762a97c901db8a00b6e73d44e071bc",
-    "/app/index.html": "2c3ae40cd0a57e535083dd4bab565379b4cb23b98386c143f751ae3362003fca",
-    "/project-details/": "4a636a700a8b5edbb4892080c8a0ff97f568984eadc0697ea4262430442ef645",
-    "/project-details/index.html": "4a636a700a8b5edbb4892080c8a0ff97f568984eadc0697ea4262430442ef645",
-    "/project-details/details.css": "fdc13375bcb1c8c3f0f8df0a2e54c4bac7ab1bf661cf3c5b45fe4a734904e9fb",
-    "/design.css": "4f6e2ad3d6ef7d67b510bf4c5e5065c26ad1b68cfca78eb62963146494d0fd02",
+    "/": "a118eb8de15f35f3b764836398e334aab197a2f6531050d4137de6382d76b0f7",
+    "/app/": "a17303a22fcb21fe54b09449c1ba9346339e21279eb9b99be8ab19020e3b9cea",
+    "/index.html": "a118eb8de15f35f3b764836398e334aab197a2f6531050d4137de6382d76b0f7",
+    "/app/index.html": "a17303a22fcb21fe54b09449c1ba9346339e21279eb9b99be8ab19020e3b9cea",
+    "/project-details/": "185426726ac52afd0dd740a56e5235903752e7e920dd4ca5946ddb348e82a2de",
+    "/project-details/index.html": "185426726ac52afd0dd740a56e5235903752e7e920dd4ca5946ddb348e82a2de",
+    "/project-details/details.css": "77567204c91c8a330229c6a51eb17d8766ddc64112fa90f6c748bcbca5efce45",
+    "/design.css": "50ddc256f16c3b6f65885d9d160b22282c26ea1cb89763af7d79ad81ec9702b1",
     "/js/about.js": "bc3a6f29880878ee48c8d5708bf852915a3ce5ae77f1c3a4c75d9c3fcbddbe8a",
     "/js/activity.js": "a2be3a8146b721d1fe343da466d9c414869ba343056cd1c30db7b140cbdc165f",
     "/js/app.js": "95dcc4627c5924c856912ba670d5f80fba6738786d716ea44bf2d868597656a8",
@@ -45,7 +45,7 @@
     "/js/key-log.js": "af9a26dec8e7156de91456ae2884af4a4a725ed5dc20f8414cb66d100d8b3b8e",
     "/js/main.js": "72f33042e065bb21f8e2c5e55ebd25e76370cf4c987ade4f167c60a043c49b5a",
     "/js/modal.js": "329bbfcbb018f2285b7e29528b4e7d1e75eb4f3d345d7a323026302d51476a2f",
-    "/js/register.js": "679f0ff8a36f78451bc72362dd155a109fce400d303d2297135e89cb963652d7",
+    "/js/register.js": "574218a4b3c6351ba0aee2be5db1476ccb82899fc75010c0b9c20952d09e3a07",
     "/js/ring-geometry.js": "bf0da4bbc778016685650351f897799f86dc8889b017503146a56137d0b1bf5d",
     "/js/ring.js": "103ae32684006398c02cbbb1ed0fe9e084f8752277168bdd669585bcc67d8677",
     "/js/rules.js": "b7b7273e785a8fb32e6472da0cf9532f014dd7ad72b2b22212e8724a03069fc4",
@@ -53,6 +53,6 @@
     "/vendor/three.core.js": "9edde002b066a9a05676a6127f67735b62baf399bdea529f2f7e31657da769e6",
     "/vendor/three.module.js": "9052042d676cb0fdc1ddfefe193053f34b7ac0513a616fdac4535d49987812ea"
   },
-  "approvedAt": "2026-09-29T14:24:33.230Z",
-  "at": "2026-09-29T15:17:10.002Z"
+  "approvedAt": "2026-09-29T15:20:22.334Z",
+  "at": "2026-09-29T15:24:33.012Z"
 }
