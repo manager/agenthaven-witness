@@ -1,8 +1,8 @@
 {
   "v": "ah-witness-1",
   "keylog": {
-    "size": 2,
-    "root": "WWxN_YwX6jxjsjcPokSCi2aUKtLfO7D8bNehGwZtQ4k",
+    "size": 6,
+    "root": "R-9zVUkA7IuIaEu0djRQivwp0E-j8MhDukeuZO9nvCQ",
     "entries": [
       {
         "login": "wolf",
@@ -20,11 +20,48 @@
         "prev": null,
         "at": "2026-09-26T08:45:30.225Z",
         "reset": true
+      },
+      {
+        "login": "wefa2qnid1ehrb27wttwuq7jiu8ypy-3d65e4",
+        "enc": "S8qfObGXvEGTYal0zqgt2709MJ5htHW3dHryOLZaZW0",
+        "sig": "Iq22QbvBANKBMZEFkQC77mi9jUPuag3nAXyNU8xd09c",
+        "proof": "l-ff1T4R-RyeCH0SWRVK856qoxQQM_ftQ2gi5wfo0wKQVjPoQTI4uQaMdgQ9qskvr2IqHC-4T7QsYEQNUZ_hBg",
+        "prev": null,
+        "at": "2026-09-29T17:50:09.646Z"
+      },
+      {
+        "login": "ryepp06q8yl6p33vrrqiippwhz4z62-4f9d80",
+        "enc": "id46R-gPKAPsP2W8LFjk8RdlOQm6Y3n1ni6bMjAbQAo",
+        "sig": "gAkuixLSm0zTRR2BgE1rLdWwDypw3x4sJk8_E4lT-3Y",
+        "proof": "pNOW9WdxIO1EVUpKI7l1Dc4yDXioZ8B3wIIXAVxSr2pmbXIKjkyZdjeTSzHWeiqLWrNzwVtF7r2Bu1aoQn5RDw",
+        "prev": null,
+        "at": "2026-09-29T17:50:14.209Z"
+      },
+      {
+        "login": "julkaocfu1mwwnxtbhpqj7x7jt2g2g-c6464f",
+        "enc": "rzBXtXoSshx_X9o53OxfEpjlWKSVUVA9yn5GkM5X4h4",
+        "sig": "sp3mDNOXnI4FCREVvhmrDzlSqTwXWm_Ff7J9WVpp64g",
+        "proof": "HhzkWmpvk9q2QnH6AfLlMkm-4SG7CxYRFg9E0UyJHLy3heaRO0YYjneHOsqfcOVjaaBmInVtUuyGkQnlsUghCQ",
+        "prev": null,
+        "at": "2026-09-29T17:52:13.749Z"
+      },
+      {
+        "login": "k0409juht4jtcnrlxqvq3bj9sntpeb-01d77b",
+        "enc": "ofEFQ0OWVXBrIdzm66OGy-4tA2MhPJr3AKDlp5H_20E",
+        "sig": "DxwSZOJ8r7kab8iu1cUCDxkRXHWR0z_-nVGOP6ngLuI",
+        "proof": "kymDH-YBGRP9-JziaXCkSoKQnq27vjC7lfr3oa0dNWdZpAp__WWuEXsRfElrnWVlUVOHYRov8tvwkacrHbiDDg",
+        "prev": null,
+        "at": "2026-09-29T17:52:17.502Z"
       }
     ]
   },
-  "head": "2:WWxN_YwX6jxjsjcPokSCi2aUKtLfO7D8bNehGwZtQ4k",
-  "vaults": {},
+  "head": "6:R-9zVUkA7IuIaEu0djRQivwp0E-j8MhDukeuZO9nvCQ",
+  "vaults": {
+    "1yrRvJFzlpSwQ0vodpHyJI50lAabbQdFDivg6ULMPkM": 6,
+    "xZzT1K793DrDd1eLTUkIYhljhz972_SNj0wdToz_R9A": 6,
+    "m6NlHhe3o6_xm6zGbyRb-yHoriQH-q2tXcsyoifjIqw": 8,
+    "-L20lWTyTTzkANDid71YRgybm1lAnWC03bh-pPyJM7M": 8
+  },
   "page": {
     "/": "3e25dd2005a18763cd417958bdbb2528130ffd121f96b2ee02bebadad628d166",
     "/app/": "3bdbd4708f973c7a5fb47d99d410172328961cf33bb075c7ea12566d731aaf23",
@@ -52,9 +89,9 @@
     "/js/tickets.js": "07ec86014e1a7bd91340b3c326127106cf8c2fe314da5078be102985f81a5e54",
     "/vendor/three.core.js": "9edde002b066a9a05676a6127f67735b62baf399bdea529f2f7e31657da769e6",
     "/vendor/three.module.js": "9052042d676cb0fdc1ddfefe193053f34b7ac0513a616fdac4535d49987812ea",
-    "/llms.txt": "05c50d9173fbb9419062fbbd0639950cde8a086f9a7b28bdf59a86b38847d9e9",
-    "/llms-full.txt": "49d8697db61eaa16a3db739723e35a9c8c4d689380389e078335a04a8df4adc4"
+    "/llms.txt": "d5ffd868adf59653045f5bd58cd444fbbaaf1d00cb4a116006546a96bdd10792",
+    "/llms-full.txt": "ad900db17c231008284c2a9399abb6f381b21ae0c8736d876094c3b46af766d3"
   },
-  "approvedAt": "2026-09-29T17:02:24.481Z",
-  "at": "2026-09-29T17:17:08.988Z"
+  "approvedAt": "2026-09-29T17:59:44.791Z",
+  "at": "2026-09-29T18:17:10.349Z"
 }
