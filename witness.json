@@ -30,9 +30,9 @@
     "/app/": "ad8b35d398d76fcf2a5b3b462c56c7a6b29bf4d1a9550ece99db5dd82f2376c3",
     "/index.html": "f615372ffbddbf7c4246ba11ead2e5140cedae4bd90eb6afda253ce2d85fef25",
     "/app/index.html": "ad8b35d398d76fcf2a5b3b462c56c7a6b29bf4d1a9550ece99db5dd82f2376c3",
-    "/project-details/": "dde591c06682cf2edf5af51c34e1ae7731d5fd6d7eb8dd18420995b5f77d1a26",
-    "/project-details/index.html": "dde591c06682cf2edf5af51c34e1ae7731d5fd6d7eb8dd18420995b5f77d1a26",
-    "/project-details/details.css": "410246d5eeb9b23feaab188fbc419f80eb29ccf66524838de2e7d8ae008a1cce",
+    "/project-details/": "b456b27ba88543de7659ef3e805086d293facb3a201d33b4e9a4bfe796bf7daf",
+    "/project-details/index.html": "b456b27ba88543de7659ef3e805086d293facb3a201d33b4e9a4bfe796bf7daf",
+    "/project-details/details.css": "003011c30e914b201353e3037bbc0578441e4fd245fce4b38f2430511e2f7283",
     "/design.css": "31bcb13a5840b2203ddff01b6c560dcf37ff473fb240d7c86d9519fdbcbb7dcc",
     "/js/about.js": "bc3a6f29880878ee48c8d5708bf852915a3ce5ae77f1c3a4c75d9c3fcbddbe8a",
     "/js/activity.js": "a2be3a8146b721d1fe343da466d9c414869ba343056cd1c30db7b140cbdc165f",
@@ -53,6 +53,6 @@
     "/vendor/three.core.js": "9edde002b066a9a05676a6127f67735b62baf399bdea529f2f7e31657da769e6",
     "/vendor/three.module.js": "9052042d676cb0fdc1ddfefe193053f34b7ac0513a616fdac4535d49987812ea"
   },
-  "approvedAt": "2026-09-28T18:39:16.694Z",
-  "at": "2026-09-29T10:17:09.240Z"
+  "approvedAt": "2026-09-29T10:20:45.784Z",
+  "at": "2026-09-29T11:17:08.125Z"
 }
