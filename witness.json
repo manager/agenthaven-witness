@@ -63,12 +63,12 @@
     "-L20lWTyTTzkANDid71YRgybm1lAnWC03bh-pPyJM7M": 8
   },
   "page": {
-    "/": "3e25dd2005a18763cd417958bdbb2528130ffd121f96b2ee02bebadad628d166",
+    "/": "234a2b0093924372570430f1c570abb713b8526b3c1e5faa2e57823d10a4f29d",
     "/app/": "3bdbd4708f973c7a5fb47d99d410172328961cf33bb075c7ea12566d731aaf23",
-    "/index.html": "3e25dd2005a18763cd417958bdbb2528130ffd121f96b2ee02bebadad628d166",
+    "/index.html": "234a2b0093924372570430f1c570abb713b8526b3c1e5faa2e57823d10a4f29d",
     "/app/index.html": "3bdbd4708f973c7a5fb47d99d410172328961cf33bb075c7ea12566d731aaf23",
-    "/project-details/": "b6b4ddc6938b4707bc218ee6c306577e9d04e96ad092be255ae2128cebbbfa3e",
-    "/project-details/index.html": "b6b4ddc6938b4707bc218ee6c306577e9d04e96ad092be255ae2128cebbbfa3e",
+    "/project-details/": "ed9c753ac15c14934ede260b304c7f8719d9eec2b1ac280d6b9d2e0a7cf111ab",
+    "/project-details/index.html": "ed9c753ac15c14934ede260b304c7f8719d9eec2b1ac280d6b9d2e0a7cf111ab",
     "/project-details/details.css": "4fd8103356392b79ba5cc5cd89fb04fa49dcc4ff9d26e1ed179119764874aa28",
     "/design.css": "af3e31fba46ea9292003ba6dd3640e3c5cb4c25d130d8837e9faf2249e8a46b0",
     "/js/about.js": "bc3a6f29880878ee48c8d5708bf852915a3ce5ae77f1c3a4c75d9c3fcbddbe8a",
@@ -89,9 +89,10 @@
     "/js/tickets.js": "07ec86014e1a7bd91340b3c326127106cf8c2fe314da5078be102985f81a5e54",
     "/vendor/three.core.js": "9edde002b066a9a05676a6127f67735b62baf399bdea529f2f7e31657da769e6",
     "/vendor/three.module.js": "9052042d676cb0fdc1ddfefe193053f34b7ac0513a616fdac4535d49987812ea",
-    "/llms.txt": "d5ffd868adf59653045f5bd58cd444fbbaaf1d00cb4a116006546a96bdd10792",
-    "/llms-full.txt": "ad900db17c231008284c2a9399abb6f381b21ae0c8736d876094c3b46af766d3"
+    "/llms.txt": "5257c3b7805df34b277d5a727f605b3138b249af7f8f96d3312548c2a2093e6f",
+    "/llms-full.txt": "032cf1215a6573f64bfca3c964cfee42c2b3816fb132199579c694d4fae1803c",
+    "/skill/SKILL.md": "14c19b9fcba718dd9e7a9d9a2d74422dbe6fe700f00acf3edfcd5f33ae03c94a"
   },
-  "approvedAt": "2026-09-29T17:59:44.791Z",
-  "at": "2026-09-29T18:17:10.349Z"
+  "approvedAt": "2026-09-29T18:52:54.095Z",
+  "at": "2026-09-29T19:17:10.653Z"
 }
