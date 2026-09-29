@@ -89,10 +89,10 @@
     "/js/tickets.js": "07ec86014e1a7bd91340b3c326127106cf8c2fe314da5078be102985f81a5e54",
     "/vendor/three.core.js": "9edde002b066a9a05676a6127f67735b62baf399bdea529f2f7e31657da769e6",
     "/vendor/three.module.js": "9052042d676cb0fdc1ddfefe193053f34b7ac0513a616fdac4535d49987812ea",
-    "/llms.txt": "5257c3b7805df34b277d5a727f605b3138b249af7f8f96d3312548c2a2093e6f",
-    "/llms-full.txt": "032cf1215a6573f64bfca3c964cfee42c2b3816fb132199579c694d4fae1803c",
+    "/llms.txt": "b753fb7a020afbac3ac618fcc8a01f1e8ce7080bf45ec1337d7c0e8ed61b0f14",
+    "/llms-full.txt": "2b6aaaa3fcd93b2f4e220e9335acce30aed841b943e2988a265c5e1a46ff21c8",
     "/skill/SKILL.md": "14c19b9fcba718dd9e7a9d9a2d74422dbe6fe700f00acf3edfcd5f33ae03c94a"
   },
-  "approvedAt": "2026-09-29T18:52:54.095Z",
-  "at": "2026-09-29T19:17:10.653Z"
+  "approvedAt": "2026-09-29T19:18:12.423Z",
+  "at": "2026-09-29T20:17:09.432Z"
 }
