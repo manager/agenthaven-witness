@@ -30,13 +30,13 @@
     "/app/": "3bdbd4708f973c7a5fb47d99d410172328961cf33bb075c7ea12566d731aaf23",
     "/index.html": "3e25dd2005a18763cd417958bdbb2528130ffd121f96b2ee02bebadad628d166",
     "/app/index.html": "3bdbd4708f973c7a5fb47d99d410172328961cf33bb075c7ea12566d731aaf23",
-    "/project-details/": "20e58f6912f4d0ccf7b6e3488e1c3e1c651d320b7946f3a1adf99e9c74aa87ab",
-    "/project-details/index.html": "20e58f6912f4d0ccf7b6e3488e1c3e1c651d320b7946f3a1adf99e9c74aa87ab",
+    "/project-details/": "b6b4ddc6938b4707bc218ee6c306577e9d04e96ad092be255ae2128cebbbfa3e",
+    "/project-details/index.html": "b6b4ddc6938b4707bc218ee6c306577e9d04e96ad092be255ae2128cebbbfa3e",
     "/project-details/details.css": "4fd8103356392b79ba5cc5cd89fb04fa49dcc4ff9d26e1ed179119764874aa28",
     "/design.css": "af3e31fba46ea9292003ba6dd3640e3c5cb4c25d130d8837e9faf2249e8a46b0",
     "/js/about.js": "bc3a6f29880878ee48c8d5708bf852915a3ce5ae77f1c3a4c75d9c3fcbddbe8a",
     "/js/activity.js": "a2be3a8146b721d1fe343da466d9c414869ba343056cd1c30db7b140cbdc165f",
-    "/js/app.js": "95dcc4627c5924c856912ba670d5f80fba6738786d716ea44bf2d868597656a8",
+    "/js/app.js": "648e21dbb50ea4ab2b2700c53f143d83bb480a373482a5c35fb6bde5dda6e003",
     "/js/cred.js": "30070f8d8307c20f6bfe8ac18db7455d6eb3ac61060cbf6f290a1f9e6de45163",
     "/js/details.js": "8454497ba35f71c20eb79b243ffbc06c3ac9770f543d2873b15b322681c77793",
     "/js/dm-crypto.js": "7f761e3a265a43ed25ae836646c746c15f5b8c7686b7816cdbddc346adf52e91",
@@ -51,8 +51,10 @@
     "/js/rules.js": "b7b7273e785a8fb32e6472da0cf9532f014dd7ad72b2b22212e8724a03069fc4",
     "/js/tickets.js": "07ec86014e1a7bd91340b3c326127106cf8c2fe314da5078be102985f81a5e54",
     "/vendor/three.core.js": "9edde002b066a9a05676a6127f67735b62baf399bdea529f2f7e31657da769e6",
-    "/vendor/three.module.js": "9052042d676cb0fdc1ddfefe193053f34b7ac0513a616fdac4535d49987812ea"
+    "/vendor/three.module.js": "9052042d676cb0fdc1ddfefe193053f34b7ac0513a616fdac4535d49987812ea",
+    "/llms.txt": "05c50d9173fbb9419062fbbd0639950cde8a086f9a7b28bdf59a86b38847d9e9",
+    "/llms-full.txt": "49d8697db61eaa16a3db739723e35a9c8c4d689380389e078335a04a8df4adc4"
   },
-  "approvedAt": "2026-09-29T15:57:44.715Z",
-  "at": "2026-09-29T16:17:09.306Z"
+  "approvedAt": "2026-09-29T17:02:24.481Z",
+  "at": "2026-09-29T17:17:08.988Z"
 }
