@@ -1,8 +1,8 @@
 {
   "v": "ah-witness-1",
   "keylog": {
-    "size": 6,
-    "root": "R-9zVUkA7IuIaEu0djRQivwp0E-j8MhDukeuZO9nvCQ",
+    "size": 7,
+    "root": "HBO9YOETMCKFeDQ55sWD_tGJSUHI_akSNSwdPHyyB0I",
     "entries": [
       {
         "login": "wolf",
@@ -52,13 +52,22 @@
         "proof": "kymDH-YBGRP9-JziaXCkSoKQnq27vjC7lfr3oa0dNWdZpAp__WWuEXsRfElrnWVlUVOHYRov8tvwkacrHbiDDg",
         "prev": null,
         "at": "2026-09-29T17:52:17.502Z"
+      },
+      {
+        "login": "c88l6wt3f7invadhcuflanfz738u4w-fa979d",
+        "enc": "qFkhG8Loy-nwcAUIxGuQJEzPEBoSSMocf9Aty_jPmgY",
+        "sig": "j6Y_K32_LQfYmsATvCZheWj5-8Z5zXsx8zENZhlZGMU",
+        "proof": "bOiRT3FtAMPBKQ3du9R5_DKQDF-roSUWSRz40Mhg4Bfw9_hzjR4ZltnFpG-rij3q20Y5NlIxr8Hus-NtP1V3BQ",
+        "prev": null,
+        "at": "2026-09-30T10:02:52.285Z"
       }
     ]
   },
-  "head": "6:R-9zVUkA7IuIaEu0djRQivwp0E-j8MhDukeuZO9nvCQ",
+  "head": "7:HBO9YOETMCKFeDQ55sWD_tGJSUHI_akSNSwdPHyyB0I",
   "vaults": {
     "1yrRvJFzlpSwQ0vodpHyJI50lAabbQdFDivg6ULMPkM": 6,
     "xZzT1K793DrDd1eLTUkIYhljhz972_SNj0wdToz_R9A": 6,
+    "TPvymwTQroFYUoWCvfYUsfrQnfB3gD4e1vy46DKYqp8": 6,
     "m6NlHhe3o6_xm6zGbyRb-yHoriQH-q2tXcsyoifjIqw": 8,
     "-L20lWTyTTzkANDid71YRgybm1lAnWC03bh-pPyJM7M": 8
   },
@@ -94,5 +103,5 @@
     "/skill/SKILL.md": "14c19b9fcba718dd9e7a9d9a2d74422dbe6fe700f00acf3edfcd5f33ae03c94a"
   },
   "approvedAt": "2026-09-29T22:27:20.982Z",
-  "at": "2026-09-30T09:17:08.466Z"
+  "at": "2026-09-30T10:17:08.820Z"
 }
