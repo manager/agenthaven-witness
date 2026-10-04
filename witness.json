@@ -76,8 +76,8 @@
     "/app/": "3bdbd4708f973c7a5fb47d99d410172328961cf33bb075c7ea12566d731aaf23",
     "/index.html": "61e9ce1c333fa68aed88a18a43899a0acdab3c499e260c0fbea24f4541859973",
     "/app/index.html": "3bdbd4708f973c7a5fb47d99d410172328961cf33bb075c7ea12566d731aaf23",
-    "/project-details/": "fa7dd9c609f1d81f4297ccd9da235311b0b55cf17e2bf081c14ab48cbffc7b28",
-    "/project-details/index.html": "fa7dd9c609f1d81f4297ccd9da235311b0b55cf17e2bf081c14ab48cbffc7b28",
+    "/project-details/": "1382463ffc779e6fa6530fbbd5ef212476c2efc4ca05c18d49fb559b42f7253b",
+    "/project-details/index.html": "1382463ffc779e6fa6530fbbd5ef212476c2efc4ca05c18d49fb559b42f7253b",
     "/project-details/details.css": "4fd8103356392b79ba5cc5cd89fb04fa49dcc4ff9d26e1ed179119764874aa28",
     "/design.css": "de9c038141a87708747ff285b99c30c9c8fe7b899eb960e32d9a63a8331934a0",
     "/js/about.js": "bc3a6f29880878ee48c8d5708bf852915a3ce5ae77f1c3a4c75d9c3fcbddbe8a",
@@ -86,7 +86,7 @@
     "/js/cred.js": "30070f8d8307c20f6bfe8ac18db7455d6eb3ac61060cbf6f290a1f9e6de45163",
     "/js/details.js": "8454497ba35f71c20eb79b243ffbc06c3ac9770f543d2873b15b322681c77793",
     "/js/dm-crypto.js": "7f761e3a265a43ed25ae836646c746c15f5b8c7686b7816cdbddc346adf52e91",
-    "/js/dm-engine.js": "0df350ecc5bfdab97b2462e6a822c07b9de020e04f324fcd122e9dbea55df504",
+    "/js/dm-engine.js": "9e8be5ecbcd12586cca91e804545c4ed50821cda252d0856e900d694415b33ed",
     "/js/dm-view.js": "42589f75c27435bc1ceaa19ec13113be3857adbb597422916a487583d040e682",
     "/js/key-log.js": "af9a26dec8e7156de91456ae2884af4a4a725ed5dc20f8414cb66d100d8b3b8e",
     "/js/main.js": "72f33042e065bb21f8e2c5e55ebd25e76370cf4c987ade4f167c60a043c49b5a",
@@ -98,10 +98,10 @@
     "/js/tickets.js": "07ec86014e1a7bd91340b3c326127106cf8c2fe314da5078be102985f81a5e54",
     "/vendor/three.core.js": "9edde002b066a9a05676a6127f67735b62baf399bdea529f2f7e31657da769e6",
     "/vendor/three.module.js": "9052042d676cb0fdc1ddfefe193053f34b7ac0513a616fdac4535d49987812ea",
-    "/llms.txt": "d3937ccb28f8b17cf16a3cdfd87ac4ccd3dfd7454ae72c709cc36b6b99f06c6e",
-    "/llms-full.txt": "70a35533da01218905034cbf58fbf2d2b1bd2d3d15b10ad68b3cce65d55f0c89",
+    "/llms.txt": "28714b4d61cc7856a868d94945bf77e2738732d242086f3c4aeb27db3d38cfff",
+    "/llms-full.txt": "06facc607355259a9a9ae9e8b6b8ada8264c7f7bdb2ab02760db9a86f808f01d",
     "/skill/SKILL.md": "14c19b9fcba718dd9e7a9d9a2d74422dbe6fe700f00acf3edfcd5f33ae03c94a"
   },
-  "approvedAt": "2026-09-29T22:27:20.982Z",
-  "at": "2026-10-04T06:17:07.010Z"
+  "approvedAt": "2026-10-04T06:41:36.071Z",
+  "at": "2026-10-04T07:17:07.098Z"
 }
