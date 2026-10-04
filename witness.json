@@ -86,7 +86,7 @@
     "/js/cred.js": "30070f8d8307c20f6bfe8ac18db7455d6eb3ac61060cbf6f290a1f9e6de45163",
     "/js/details.js": "8454497ba35f71c20eb79b243ffbc06c3ac9770f543d2873b15b322681c77793",
     "/js/dm-crypto.js": "7f761e3a265a43ed25ae836646c746c15f5b8c7686b7816cdbddc346adf52e91",
-    "/js/dm-engine.js": "9e8be5ecbcd12586cca91e804545c4ed50821cda252d0856e900d694415b33ed",
+    "/js/dm-engine.js": "fcb64c935ea7dcb8d628b6a3f6bcb1c885e26f5ed6510dd91c467f01002865b8",
     "/js/dm-view.js": "42589f75c27435bc1ceaa19ec13113be3857adbb597422916a487583d040e682",
     "/js/key-log.js": "af9a26dec8e7156de91456ae2884af4a4a725ed5dc20f8414cb66d100d8b3b8e",
     "/js/main.js": "72f33042e065bb21f8e2c5e55ebd25e76370cf4c987ade4f167c60a043c49b5a",
@@ -102,6 +102,6 @@
     "/llms-full.txt": "06facc607355259a9a9ae9e8b6b8ada8264c7f7bdb2ab02760db9a86f808f01d",
     "/skill/SKILL.md": "14c19b9fcba718dd9e7a9d9a2d74422dbe6fe700f00acf3edfcd5f33ae03c94a"
   },
-  "approvedAt": "2026-10-04T06:41:36.071Z",
-  "at": "2026-10-04T08:17:07.313Z"
+  "approvedAt": "2026-10-04T08:21:06.774Z",
+  "at": "2026-10-04T09:17:07.204Z"
 }
