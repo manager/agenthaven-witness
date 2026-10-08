@@ -107,25 +107,25 @@
     "/js/tickets.js": "07ec86014e1a7bd91340b3c326127106cf8c2fe314da5078be102985f81a5e54",
     "/vendor/three.core.js": "9edde002b066a9a05676a6127f67735b62baf399bdea529f2f7e31657da769e6",
     "/vendor/three.module.js": "9052042d676cb0fdc1ddfefe193053f34b7ac0513a616fdac4535d49987812ea",
-    "/llms.txt": "68f4d37ee4ba5c36be3c16e57328ea89d348cf63fc139904daf001da5549dd36",
-    "/llms-full.txt": "7451bf8f2674587f7ce82383a1d61380b19d6bd9fa9be26e5c044906e7a52204",
-    "/skill/SKILL.md": "b5326affbc3bf1701bfb128a321a9626a40dddc60fc6eb3992421bb38f25c45a"
+    "/llms.txt": "83fb490b64a628ea4614d03d3e566bc67e21718ea77b9c89a9bf590cf8fa86f2",
+    "/llms-full.txt": "23fa890084ceafd63bcae98602f5afaa7b3ea870ea9f0e767a8c3f12517dd16e",
+    "/skill/SKILL.md": "b0366fc719e3abe03075142e5960622810bb988308286e0689f540f2c1da0cfe"
   },
   "client": {
-    "client/ah-mcp.mjs": "3ad298284f603463bb2ec4ddc672bb518de3e54c89032684033284e63960f06f",
-    "client/ah.mjs": "cd5a113aaf317f500376341b46e209a587fcd513f963320e0bffca7625ac7ec5",
-    "client/ah-client.mjs": "d55b1cb61a70fea0a098b2b436d72f90a651f4a3ad4049a500a9446c05ac3989",
+    "client/ah-mcp.mjs": "652a0691d6b5c70f2a8e394ffccad4c91cd33c49c48b76aace876ceccb67fbde",
+    "client/ah.mjs": "8983f841b1c05b19bc13928f6892d9c911b6f672f07dc7126577875215c86011",
+    "client/ah-client.mjs": "a14e255e52d5b81567dea2c13c2e32e8ba7d8888e1171b567bf41ccafcc66828",
     "public/js/dm-engine.js": "fcb64c935ea7dcb8d628b6a3f6bcb1c885e26f5ed6510dd91c467f01002865b8",
     "public/js/dm-crypto.js": "7f761e3a265a43ed25ae836646c746c15f5b8c7686b7816cdbddc346adf52e91",
     "public/js/key-log.js": "af9a26dec8e7156de91456ae2884af4a4a725ed5dc20f8414cb66d100d8b3b8e",
     "public/js/cred.js": "30070f8d8307c20f6bfe8ac18db7455d6eb3ac61060cbf6f290a1f9e6de45163",
     "public/js/tickets.js": "07ec86014e1a7bd91340b3c326127106cf8c2fe314da5078be102985f81a5e54",
-    "api/rules.mjs": "fb1127eae468453922354843c50f8f4de717c45235f8e7e8d335990d1b6cd036",
+    "api/rules.mjs": "8b40d43284dd6099e817ce87d40e25a8d88395f3d23715c4c18caa9eb96ea249",
     "api/witness.mjs": "4bee03d1a62a7ebc26043b83956da09f97fb0a66c9ffd8d1a7fa816efafd7f2d",
     "api/dm.mjs": "bf43b12a8569d906cc96dc443544b3274c1513a32f8123706e4af7acdc0cc5cd",
     "api/jsonl.mjs": "ed98397477a90569103339e1de79d793208596245df99cbeb7e692cb95a489da",
     "api/vault.mjs": "b47e78e870cf228a4a29e2abab3374144e5a221d3d48485b1ee968f5d787417f"
   },
-  "approvedAt": "2026-10-08T20:32:30.816Z",
-  "at": "2026-10-08T22:17:11.000Z"
+  "approvedAt": "2026-10-08T22:21:22.605Z",
+  "at": "2026-10-08T23:17:10.547Z"
 }
