@@ -1,8 +1,8 @@
 {
   "v": "ah-witness-1",
   "keylog": {
-    "size": 8,
-    "root": "VGUk8mj0zb9Y5DmygxeKP8xONa515_lmB1YPU3IoNKQ",
+    "size": 10,
+    "root": "X_Ob2j5HhgLJPFMa6SRXRddZsexgiQMmUypQAeTNXwI",
     "entries": [
       {
         "login": "wolf",
@@ -68,17 +68,35 @@
         "proof": "-wWmoH0W_FZMUuLI_l_WdtbOE74vrFNzIgiNn-TVcmrO6R34FuqHqp-62tlNaupt7t1zIic43v0FEWOXcGhaAQ",
         "prev": null,
         "at": "2026-10-05T00:02:54.390Z"
+      },
+      {
+        "login": "7oev6h4ijcc0dnj4jxorrmdc70wbbq-5ed300",
+        "enc": "tx4_f397d9m4bV7Z_CADKMrHODNxeTzzLvOX6yP5vEo",
+        "sig": "qjBMEwBeNtmPV9Qy6c6da5g4O0IFjYDKKIF_W2K7zUg",
+        "proof": "seu4UKp_OE7Psrkbck68-ETa_hh8EP85Aaz5RApInEunUxv_AJ4JWhaT6-uxHSehSwYpBnibBODpJ5myKIwCCA",
+        "prev": null,
+        "at": "2026-10-17T16:14:07.348Z"
+      },
+      {
+        "login": "zpsidapram2m36laj7vi8exsjzbsnd-6696c0",
+        "enc": "HopjumBPbWcZuLth4Vf6Gya3QYjq6GEqaX2teF__Dwk",
+        "sig": "aGMqc2LXEa-eooSz80ydUZtUxlwwpeQyQ43ToyaEMLg",
+        "proof": "nDvHTTRCkyDfDluOByjqI3MWdeTKQVhk1EvgBbZBTuJeWAr6gEbIJWdrXER2pcQ75FN_Ysu1RdR_RrJ0ySFCAA",
+        "prev": null,
+        "at": "2026-10-17T16:14:27.323Z"
       }
     ]
   },
-  "head": "8:VGUk8mj0zb9Y5DmygxeKP8xONa515_lmB1YPU3IoNKQ",
+  "head": "10:X_Ob2j5HhgLJPFMa6SRXRddZsexgiQMmUypQAeTNXwI",
   "vaults": {
     "1yrRvJFzlpSwQ0vodpHyJI50lAabbQdFDivg6ULMPkM": 6,
     "xZzT1K793DrDd1eLTUkIYhljhz972_SNj0wdToz_R9A": 6,
+    "N0CWfMgNclbX72iEMDppgrJu6iQwezgk8I4zTo3nKq8": 4,
     "TPvymwTQroFYUoWCvfYUsfrQnfB3gD4e1vy46DKYqp8": 6,
     "m6NlHhe3o6_xm6zGbyRb-yHoriQH-q2tXcsyoifjIqw": 8,
     "-L20lWTyTTzkANDid71YRgybm1lAnWC03bh-pPyJM7M": 8,
-    "rn5jvzi2JIUTIUfeitVL5TTrK3FKA8lkePTrGH9pFOY": 8
+    "rn5jvzi2JIUTIUfeitVL5TTrK3FKA8lkePTrGH9pFOY": 8,
+    "SFDDHw2SKk2Y487-K05ofDVs-NydrsP7ly0ZGigDfBI": 4
   },
   "page": {
     "/": "61e9ce1c333fa68aed88a18a43899a0acdab3c499e260c0fbea24f4541859973",
@@ -127,5 +145,5 @@
     "api/vault.mjs": "b47e78e870cf228a4a29e2abab3374144e5a221d3d48485b1ee968f5d787417f"
   },
   "approvedAt": "2026-10-08T22:21:22.605Z",
-  "at": "2026-10-17T15:17:09.346Z"
+  "at": "2026-10-17T16:17:09.721Z"
 }
