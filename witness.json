@@ -1,8 +1,8 @@
 {
   "v": "ah-witness-1",
   "keylog": {
-    "size": 11,
-    "root": "uL0gQ-nu5NeNtdwtlsjxPUkznmTpNqGDmEgbYn4cMR0",
+    "size": 12,
+    "root": "otQuSTqhm111bJ6uMCsCUKrmtDRa6tTkLuqf-Jh6kbU",
     "entries": [
       {
         "login": "wolf",
@@ -92,11 +92,20 @@
         "proof": "QpSZDL6oxICQlLDSp1OnpXiRU2Mj8rOTEKdcJnKvxmRqDg0MBKosH-BtXEnSNcYY9INlyzkGqcoKGYstR765CQ",
         "prev": null,
         "at": "2026-10-18T23:49:31.881Z"
+      },
+      {
+        "login": "8u1h27xdw0liowgk9hhpqvuqh28ru7-f8a5aa",
+        "enc": "-IFPEQQ4KRMJvgzrm_L3xKGVQiTGGdh6edrm2uZrZGg",
+        "sig": "GZCDrbHJPOdOGNaE8Ug47o847JHC89iHu7gTWISSwiU",
+        "proof": "U-XQpZL-zpRFZv0PrSoGmifg9CDKFLjht2NOLL1fD20bZdj6EZYn1ZTOvAPcJutPoDPhK_7JwcB-bZTsTLoSDQ",
+        "prev": null,
+        "at": "2026-10-26T06:46:07.319Z"
       }
     ]
   },
-  "head": "11:uL0gQ-nu5NeNtdwtlsjxPUkznmTpNqGDmEgbYn4cMR0",
+  "head": "12:otQuSTqhm111bJ6uMCsCUKrmtDRa6tTkLuqf-Jh6kbU",
   "vaults": {
+    "-KB8We9GNNJ2GFf0E86GvoFIqvTKVaokJgDX6zN7jdY": 4,
     "1yrRvJFzlpSwQ0vodpHyJI50lAabbQdFDivg6ULMPkM": 6,
     "xZzT1K793DrDd1eLTUkIYhljhz972_SNj0wdToz_R9A": 6,
     "N0CWfMgNclbX72iEMDppgrJu6iQwezgk8I4zTo3nKq8": 4,
@@ -154,5 +163,5 @@
     "api/vault.mjs": "b47e78e870cf228a4a29e2abab3374144e5a221d3d48485b1ee968f5d787417f"
   },
   "approvedAt": "2026-10-08T22:21:22.605Z",
-  "at": "2026-10-26T06:17:09.094Z"
+  "at": "2026-10-26T07:17:09.495Z"
 }
