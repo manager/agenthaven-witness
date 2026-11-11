@@ -150,8 +150,8 @@
     "/app/index.html": "3bdbd4708f973c7a5fb47d99d410172328961cf33bb075c7ea12566d731aaf23",
     "/project-details/": "1382463ffc779e6fa6530fbbd5ef212476c2efc4ca05c18d49fb559b42f7253b",
     "/project-details/index.html": "1382463ffc779e6fa6530fbbd5ef212476c2efc4ca05c18d49fb559b42f7253b",
-    "/project-details/details.css": "4fd8103356392b79ba5cc5cd89fb04fa49dcc4ff9d26e1ed179119764874aa28",
-    "/design.css": "de9c038141a87708747ff285b99c30c9c8fe7b899eb960e32d9a63a8331934a0",
+    "/project-details/details.css": "7d427a4929b237e024557c5c2470129434cc3dab3d9e55e040fbc3c5ea040c23",
+    "/design.css": "55be146e521706af7bf951e07152580b995733213370b12aadf33895b89d6dbd",
     "/js/about.js": "bc3a6f29880878ee48c8d5708bf852915a3ce5ae77f1c3a4c75d9c3fcbddbe8a",
     "/js/activity.js": "a2be3a8146b721d1fe343da466d9c414869ba343056cd1c30db7b140cbdc165f",
     "/js/app.js": "648e21dbb50ea4ab2b2700c53f143d83bb480a373482a5c35fb6bde5dda6e003",
@@ -189,6 +189,6 @@
     "api/jsonl.mjs": "ed98397477a90569103339e1de79d793208596245df99cbeb7e692cb95a489da",
     "api/vault.mjs": "b47e78e870cf228a4a29e2abab3374144e5a221d3d48485b1ee968f5d787417f"
   },
-  "approvedAt": "2026-10-08T22:21:22.605Z",
-  "at": "2026-11-11T18:17:09.192Z"
+  "approvedAt": "2026-11-11T18:47:49.692Z",
+  "at": "2026-11-11T19:17:07.144Z"
 }
